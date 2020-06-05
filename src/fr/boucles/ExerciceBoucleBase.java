@@ -11,7 +11,7 @@ public class ExerciceBoucleBase {
 		
 		//utilisation de printf et non println pour les sauts de lignes
 		for(int i = 1; i < 11; i++) {
-			System.out.printf("%s", i + " ");
+			System.out.print(i + " ");
 		}
 		System.out.println("\n");
 		
