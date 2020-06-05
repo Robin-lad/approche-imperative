@@ -24,6 +24,7 @@ public class ExerciceBouclesEtTests {
 
 		System.out.println("\n");
 
+		// seulement les entiers supérieur à 3
 		for (int i = 0; i < a.length; i++) {
 			if (a[i] > 3) {
 				System.out.print(a[i] + " ");
